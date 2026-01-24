@@ -154,6 +154,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="TMTB"></a>**[TMTB]** Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2503.17984)][[code](https://github.com/syhien/taste_more_taste_better)]
 - <a name="OmniCount"></a>**[OmniCount]** OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)[[paper](https://arxiv.org/abs/2403.05435)][[web](https://mondalanindya.github.io/OmniCount/)]
 - <a name="E-MAC"></a>**[E-MAC]** Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (**ICLR**) [[paper](https://openreview.net/pdf?id=sY3anJ8C68)][[code](https://github.com/mast1ren/E-MAC)]
+- <a name="E-MAC"></a>**[PML]** Proximal Mapping Loss: Understanding Loss Functions in Crowd Counting & Localization (**ICLR**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/iclr25-pml.pdf)][[code](https://github.com/Elin24/pml)]
   
 ### 2024
 ### Conference
